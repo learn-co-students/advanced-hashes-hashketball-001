@@ -208,6 +208,5 @@ def game_hash
        end
      end
    end
-
    num_rebounds
  end
